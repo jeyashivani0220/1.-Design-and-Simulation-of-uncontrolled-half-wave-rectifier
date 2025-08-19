@@ -52,8 +52,10 @@ Resistance=0.5 ohm
 Vin = 220 Vrms at 50Hz (312 Vp)
 <img width="940" height="349" alt="image" src="https://github.com/user-attachments/assets/b2bb32b7-4bbf-4398-a2eb-a14853f5205a" />
 ## Simulation
+![WhatsApp Image 2025-08-19 at 21 34 44_b1a13541](https://github.com/user-attachments/assets/38abb16e-62ca-4eed-bfb7-2d7bb3c01c63)
 
 ## Output
+![WhatsApp Image 2025-08-19 at 21 34 44_306bba45](https://github.com/user-attachments/assets/78f32abb-c34e-4e27-8c64-72967948e640)
 
 ## Result
 
